@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kesha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kesha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Terraforming.70629433.00" t="ExcludeRecursive" />
+    <e p="D:\CDE\Unity\Learn\Terraforming" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Atmosphere" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Atmosphere.shader" t="Include" />
+            <e p="AtmosphereSettings.cs" t="Include" />
+            <e p="OutScattering.compute" t="Include" />
+          </e>
+        </e>
+        <e p="Clouds" t="Include">
+          <e p="Graphics" t="Include">
+            <e p="Preview.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="CloudManager.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="NoiseGenEditor.cs" t="Include" />
+            </e>
+            <e p="Noise" t="Include">
+              <e p="Compute" t="Include">
+                <e p="NoiseGenCompute.compute" t="Include" />
+              </e>
+              <e p="NoiseGenerator.cs" t="Include" />
+              <e p="NoiseSettings.cs" t="Include" />
+              <e p="WorleyNoiseSettings.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CloudComposite.shader" t="Include" />
+              <e p="Clouds.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Effects" t="Include">
+          <e p="CameraEffect.cs" t="Include" />
+          <e p="EffectManager.cs" t="Include" />
+          <e p="FXAA" t="Include">
+            <e p="Credit.txt" t="Include" />
+            <e p="FXAA.shader" t="Include" />
+            <e p="FXAAEffect.cs" t="Include" />
+          </e>
+          <e p="NewSurfaceShader.shader" t="Include" />
+        </e>
+        <e p="Game" t="Include">
+          <e p="Graphics" t="Include">
+            <e p="HUD.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="CharacterAnimator.cs" t="Include" />
+            <e p="FirstPersonController.cs" t="Include" />
+            <e p="LightThrower.cs" t="Include" />
+            <e p="MathUtility.cs" t="Include" />
+            <e p="SphereMesh.cs" t="Include" />
+            <e p="StickyLight.cs" t="Include" />
+            <e p="Terraformer.cs" t="Include" />
+            <e p="Water.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Terrain.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Helper" t="Include">
+          <e p="Compute Helper" t="Include">
+            <e p="Channel.cs" t="Include" />
+            <e p="ComputeHelper.cs" t="Include" />
+            <e p="Processing" t="Include">
+              <e p="GaussianBlur.cs" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="ClearTexture.compute" t="Include" />
+              <e p="Copy3D.compute" t="Include" />
+              <e p="GaussianBlur.compute" t="Include" />
+              <e p="NormalizeTexture.compute" t="Include" />
+              <e p="Swizzle.compute" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Marching Cubes" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Chunk.cs" t="Include" />
+            <e p="Compute" t="Include">
+              <e p="Blur.compute" t="Include" />
+              <e p="EditTexture.compute" t="Include" />
+              <e p="Includes" t="Include">
+                <e p="MarchTables.compute" t="Include" />
+                <e p="Noise.compute" t="Include" />
+              </e>
+              <e p="MarchingCubes.compute" t="Include" />
+              <e p="PlanetMap.compute" t="Include" />
+            </e>
+            <e p="GenTest.cs" t="Include" />
+            <e p="MeshBaker.cs" t="Include" />
+            <e p="TextureViewer" t="Include">
+              <e p="TextureViewer3D.cs" t="Include" />
+              <e p="TextureViewer3D.shader" t="Include" />
+            </e>
+            <e p="VertexData.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Water" t="Include">
+          <e p="Underwater.shader" t="Include" />
+          <e p="Underwater_Old.shader" t="Include" />
+          <e p="Water.shader" t="Include" />
+          <e p="WaterDepth.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Terraforming.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
